@@ -1,8 +1,8 @@
-# meta-analysis
+## meta-analysis
 metafor, curated-data
 
 
-# blender synapse model
+## blender synapse model
 
 
-# data viz medicare claims data (urologist)
+## data viz medicare claims data (urologist)
